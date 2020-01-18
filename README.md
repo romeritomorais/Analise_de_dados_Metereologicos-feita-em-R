@@ -1,2 +1,4 @@
-# Choveu-muito-em-Bel-m-no-Natal-dos-ltimos-58-anos-Uma-an-lise-feita-em-R
-nesse post vamos fazer uma breve análise dos dados metereológicos que encontramos aqui http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep. para ter acesso voce precisa criar um cadastro logar e em seguida vai na opção "ESTAÇÕES E DADOS" daí voce seleciona o periodo que se inicia em 02/01/1961. mais detalhes no site, então vamos lá
+> ## Choveu muito em Belém no Natal dos últimos 58 anos? Uma análise feita em R
+tutorial completo no linkedIn, click na imagem abaixo para acessar: :point_down:
+
+[![Legenda](https://github.com/romeritomorais/traduzindo-dados-com-Google-Translate-no-Pandas.DataFrame/blob/master/resources/LinkedIn.png)](https://www.linkedin.com/pulse/traduzindo-dados-pandasdataframe-com-google-translate-romerito-morais)]
