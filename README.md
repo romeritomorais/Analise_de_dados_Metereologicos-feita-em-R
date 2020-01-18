@@ -1,0 +1,2 @@
+# Choveu-muito-em-Bel-m-no-Natal-dos-ltimos-58-anos-Uma-an-lise-feita-em-R
+nesse post vamos fazer uma breve análise dos dados metereológicos que encontramos aqui http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep. para ter acesso voce precisa criar um cadastro logar e em seguida vai na opção "ESTAÇÕES E DADOS" daí voce seleciona o periodo que se inicia em 02/01/1961. mais detalhes no site, então vamos lá
